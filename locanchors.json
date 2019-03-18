@@ -1,0 +1,47 @@
+{
+  "id": "33406180-a3f3-475b-97e0-8ff94a3b4e81",
+  "level": 0,
+  "width": 0,
+  "height": 0,
+  "anchors": [
+    {
+      "anchor": {
+        "id": "480",
+        "device": {
+          "mac": "C0:DA:79:9C:6C:66"
+        }
+      },
+      "cartPosition": [
+        -0.73,
+        1.79,
+        2.1
+      ]
+    },
+    {
+      "anchor": {
+        "id": "175",
+        "device": {
+          "mac": "C0:E8:CB:99:59:6E"
+        }
+      },
+      "cartPosition": [
+        -1.88,
+        -1.35,
+        2.1
+      ]
+    },
+    {
+      "anchor": {
+        "id": "132",
+        "device": {
+          "mac": "D3:F8:9E:0C:47:6D"
+        }
+      },
+      "cartPosition": [
+        2.59,
+        -0.48,
+        1
+      ]
+    }
+  ]
+}
